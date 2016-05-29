@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+
+    <!--<color name="colorPrimary">#00f573</color>-->
+    <!--<color name="colorPrimaryDark">#0cd269</color>-->
+
+    <color name="style_color_primary">#2d5d82</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="light_green_light">#00ff90</color>
+    <!--<color name="colorAccent">#01bcd5</color>-->
+
+    <color name="fab_color_pressed">#007787</color>
+
+    <color name="colorPrimary">#E82E25</color>
+    <color name="colorPrimaryDark">#ED4F3E</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="windowBackground">#E1E6EB</color>
+
+    <color name="selectedNavigationItem">#EDEDED</color>
+    <color name="light_gray">#A4A4A4</color>
+    <color name="light_light_gray">#dedfe5</color>
+
+    <!--<color name="colorPrimary">#181A1C</color>-->
+    <!--<color name="colorPrimaryDark">#000000</color>-->
+    <color name="textColor">#ffffff</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <!--<color name="windowBackground">#FFFFFF</color>-->
+    <color name="navigationBarColor">#000000</color>
+    <!--<color name="colorAccent">#FF353E</color>-->
+    <color name="light_green">#00c652</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mainBg">#333333</color>
+    <color name="black">#000000</color>
+    <color name="drawerBackground">#131417</color>
+    <color name="grey_light">#CCCCCC</color>
+
+    <color name="blue_find">#1F70C3</color>
+    <color name="blue">#00b8f4</color>
+    <color name="light_blue1">#01a2ff</color>
+    <color name="light_orange">#ff6101</color>
+    <color name="purple">#8504e0</color>
+    <color name="light_purple">#fd25d2</color>
+</resources>
